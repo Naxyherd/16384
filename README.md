@@ -1,4 +1,4 @@
-16384
+2048
 =====
 
-Difficulty enhancement for popular 2048/4096/8192 games
+Spawns 4s more than 2s!
